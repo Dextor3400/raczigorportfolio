@@ -87,7 +87,7 @@
 				<footer id="footer">
 					<div class="inner">
 						<h2>Jelenleg pozíciót keresek webfejlesztőként.</h2>
-						<p>2020 Januárjában kezdtem el el komolyan foglalkozni a fejlesztéssel, szeretném fejleszteni a tudásomat és új technológiákat megtanulni, hogy minnél sokrétűbb tudásra tegyek szert.</p>
+						<p>2020 Januárjában kezdtem el el komolyan foglalkozni a fejlesztéssel, szeretném bővíteni a tudásomat és új technológiákat megtanulni, hogy minnél sokrétűbb tudásra tegyek szert.</p>
 
 						<ul class="icons">
 							<li><a href="https://github.com/Dextor3400" target="_blank" class="icon fa-github"><span class="label">Github</span></a></li>
