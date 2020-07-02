@@ -17,7 +17,7 @@
 					<div class="inner">
 						<header>
 							<h1>Rácz Igor</h1>
-							<p class="text-center">Szenvedélyes fejlesztő, aki szeretne minnél több modern technológiát, fejlesztési módszert <br> és programozási nyelvet elsajátítani.</p>
+							<p class="text-center">Szenvedélyes fejlesztő, aki szeretne minél több modern technológiát, fejlesztési módszert <br> és programozási nyelvet elsajátítani.</p>
 						</header>
 						<a href="#main" class="more">Learn More</a>
 					</div>
